@@ -1,0 +1,95 @@
+Index,What is your age?,What gender do you identify as?,What school are you from,How many times did you go to campus to attend class this week?,"If a class is hybrid, how often do you attend in person (0-5 scale: 0 being never, 5 being almost all classes)?",What percent of your grade is in-class exercises (0-100%),"How hard was it to find parking for the days you DID choose to attend? (1-5 scale, 5 being impossible)",How much time does it usually take for you to go to campus? (min)
+1,21,Man,UCR,5,1,5,3,10
+2,22,Woman,UCR,7,0,5,2,2
+3,22,Man,UCLA,4,2,10,4,15
+4,22,Man,UCLA,3,1,10,4,19
+5,23,Man,UCLA,6,1,5,3,10
+6,22,Woman,UCLA,5,2,0,3,2
+7,21,Man,UCI,7,2,22,2,10
+8,18,Man,UCI,4,3,20,3,15
+9,22,Man,UCR,8,1,20,2,10
+10,19,Woman,UCI,3,2,5,2,15
+11,19,Man,UCI,5,1,15,3,17
+12,19,Man,RCC,1,4,50,5,10
+13,19,Woman,UCI,2,2,5,5,15
+14,19,Woman,UCI,6,3,25,3,10
+15,18,Woman,CSUF,7,1,5,2,10
+16,18,Man,Cal State Maritime,2,0,15,5,22
+17,22,Woman,UCLA,5,3,25,3,13
+18,21,Man,Crafton Hills,5,1,15,2,12
+19,22,Man,UCI,6,4,30,3,2
+20,18,Woman,UCR,8,0,10,2,10
+21,22,Man,UCR,9,2,15,1,5
+22,21,Man,UCR,2,4,25,5,15
+23,18,Man,UCR,4,1,5,4,12
+24,19,Man,Crafton Hills,6,1,5,3,10
+25,20,Woman,UCR,5,5,5,3,2
+26,20,Man,UCR,4,1,15,3,15
+27,19,Man,UCSD,7,3,30,2,8
+28,22,Man,UCI,4,1,5,3,15
+29,22,Woman,UCI,6,1,5,3,2
+30,23,Man,UCI,3,1,5,4,19
+31,23,Woman,UCLA,5,1,15,3,5
+32,22,Woman,UCR,4,2,20,4,15
+33,23,Man,UCI,6,1,20,3,13
+34,21,Woman,UCR,7,3,10,2,12
+35,21,Man,UCR,6,3,50,3,10
+36,18,Woman,Crafton Hills,5,0,10,3,2
+37,18,Man,UCR,8,1,5,2,10
+38,21,Woman,UCR,6,1,10,3,5
+39,21,Man,UCR,5,1,10,3,3
+40,19,Man,UCI,4,3,5,4,15
+41,19,Woman,Crafton Hills,7,4,40,2,10
+42,22,Man,SBVC,6,4,40,3,2
+43,22,Woman,UCR,7,1,0,2,10
+44,23,Woman,UCI,5,3,40,3,5
+45,22,Woman,UCI,4,2,20,4,10
+46,22,Man,UCR,2,3,25,5,20
+47,20,Man,UCR,7,1,5,2,10
+48,21,Man,RCC,1,2,10,5,25
+49,22,Man,UCI,6,2,10,3,10
+50,19,Woman,Crafton Hills,5,3,20,3,15
+51,18,Man,CSUF,7,3,15,2,10
+52,19,Woman,CSUF,4,4,25,4,20
+53,19,Man,UCI,6,1,10,3,4
+54,19,Man,UCI,7,3,15,2,10
+55,18,Woman,UCSD,5,3,5,3,5
+56,19,Man,UCSD,4,2,10,4,18
+57,19,Woman,UCSD,3,2,5,4,13
+58,19,Man,UCLA,7,1,5,2,10
+59,22,Man,UCR,8,2,15,2,2
+60,19,Man,UCLA,9,1,5,1,2
+61,19,Woman,CSUF,6,2,10,3,10
+62,20,Woman,UCLA,6,1,10,3,7
+63,20,Man,CSUF,5,3,15,3,5
+64,18,Man,RCC,4,0,10,4,20
+65,19,Man,Crafton Hills,6,0,10,3,3
+66,19,Woman,SBVC,5,1,5,3,10
+67,19,Man,UCI,4,0,5,4,20
+68,19,Woman,Crafton Hills,3,3,10,4,27
+69,18,Man,SBVC,6,1,10,2,10
+70,19,Man,UCI,7,2,10,1,2
+71,21,Woman,UCLA,4,3,25,4,10
+72,21,Man,UCSD,6,2,25,3,12
+73,21,Woman,UCI,4,0,10,3,20
+74,22,Man,UCR,3,2,10,4,10
+75,19,Woman,UCLA,6,2,5,3,2
+76,19,Woman,SBVC,7,3,20,2,10
+77,22,Woman,UCLA,6,0,5,3,3
+78,21,Man,UCR,5,2,15,3,20
+79,21,Man,UCI,4,2,15,5,15
+80,18,Woman,UCR,6,2,15,3,5
+81,21,Man,UCSD,5,1,10,3,3
+82,21,Woman,UCLA,4,0,10,3,4
+83,21,Man,CSUF,5,1,10,3,2
+84,21,Woman,UCLA,6,2,20,3,25
+85,23,Man,RCC,4,2,20,4,10
+86,22,Woman,UCI,3,1,20,4,20
+87,22,Woman,UCR,4,1,10,5,13
+88,22,Man,SBVC,7,5,20,2,10
+89,21,Woman,UCLA,6,1,10,3,2
+90,21,Man,UCLA,5,2,10,3,3
+91,19,Woman,Norco City College,7,1,10,2,2
+92,19,Woman,RCC,8,3,25,2,10
+93,19,Man,Crafton Hills,6,1,10,3,5
+94,18,Man,UCLA,5,0,15,3,12
